@@ -1,0 +1,13 @@
+{
+  "tickets": [
+    {
+      "id": "da84a2db-22d8-4dee-93e3-95f9788f5ad1",
+      "equipment": "Monitor",
+      "description": "Monitor desliga de repente",
+      "user_name": "Rodrigo Souza",
+      "status": "open",
+      "created_at": "2026-03-29T17:06:04.407Z",
+      "updated_at": "2026-03-29T17:06:04.407Z"
+    }
+  ]
+}
